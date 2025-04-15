@@ -58,6 +58,12 @@ python step2_AR.py
 ---
 ## Outout examples
 
+![1-6c5c8503](https://github.com/user-attachments/assets/09477f25-a711-491d-8da0-f4e84206a1bc)
+
+![2-6c5c8503](https://github.com/user-attachments/assets/cfffa920-94a5-421a-a027-1f56408819ee)
+
+
+
 
 ## ✨ Customization
 - You can change the cube to any shape by modifying the 3D points in `step2_ar_cube.py`
